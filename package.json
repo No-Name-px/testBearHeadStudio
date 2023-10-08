@@ -1,0 +1,13 @@
+{
+    "name": "test-bear-head-studio",
+    "version": "1.0.0",
+    "description": "contains of 2 tasks",
+    "scripts": {
+        "testTask1": "node out/test.js"
+    },
+    "author": "kirill",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^5.2.2"
+    }
+}
