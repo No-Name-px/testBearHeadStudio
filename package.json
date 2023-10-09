@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "contains of 3 tasks",
     "scripts": {
-        "testTask1": "npx ts-node task1/test.ts",
-        "testTask2": "npx ts-node task2/test.ts",
+        "testTask1": "npx ts-node src/task1/test.ts",
+        "testTask2": "npx ts-node src/task2/test.ts",
         "testTask3": "npx ts-node task3/test.ts",
         "startTask3": "react-scripts start"
     },
